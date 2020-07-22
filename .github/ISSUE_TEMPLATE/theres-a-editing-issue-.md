@@ -2,7 +2,7 @@
 name: Theres a editing issue.
 about: Theres a editing issue. use the following
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---

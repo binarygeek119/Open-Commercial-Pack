@@ -2,7 +2,7 @@
 name: Commercial Upgrade
 about: i want to submit a commercial/s upgrade.
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---

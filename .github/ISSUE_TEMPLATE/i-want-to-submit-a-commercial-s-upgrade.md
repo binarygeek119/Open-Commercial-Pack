@@ -1,5 +1,5 @@
 ---
-name: Commercial Upgrade
+name: I want to submit a Commercial/s Upgrade
 about: i want to submit a commercial/s upgrade.
 title: ''
 labels: enhancement

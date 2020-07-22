@@ -2,7 +2,7 @@
 name: I want to submit a new commercial/s
 about: i want to submit a new commercial/s.
 title: ''
-labels: ''
+labels: new
 assignees: ''
 
 ---

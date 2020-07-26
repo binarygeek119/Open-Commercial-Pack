@@ -27,4 +27,4 @@ https://github.com/binarygeek119/PseudotTV-Commercials-Pack/blob/master/Local-(U
 
 **Changelog**
 
-First Beta Release
+https://github.com/binarygeek119/PseudotTV-Commercials-Pack/blob/master/Changelog

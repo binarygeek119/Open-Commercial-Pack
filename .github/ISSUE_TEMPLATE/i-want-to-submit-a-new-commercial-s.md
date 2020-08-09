@@ -16,3 +16,6 @@ What is the commercial/s type (Cars_And_Trucks, Food_And_Drink, Game_Systems, Et
 What is the commercial/s about ?
 
 (Optional) What is your source?
+
+And now just add the link. if link is password protected please put pass then password  in quotes.
+what you can use is any sharing site but i like mega.nz https://mega.nz/ but others would work like google drive, one cloud, box cloud, etc.

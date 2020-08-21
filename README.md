@@ -1,15 +1,14 @@
 
-# pseudotv-Commercials-Pack
+# dizquetv-Commercials-Pack
 **This is a Commercials Pack for pseudotv or dizquetv**
-
-
-**Get pseudotv here**
-https://github.com/DEFENDORe/pseudotv
-
-**or**
 
 **Get dizquetv here**
 https://github.com/vexorian/dizquetv
+
+**or**
+
+**Get pseudotv here**
+https://github.com/DEFENDORe/pseudotv
 
 **Link to Pack**
 https://mega.nz/folder/JxkVRJ4Y#3fgrcnIhSm5qeDt0qMFuaQ

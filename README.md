@@ -16,7 +16,7 @@ https://mega.nz/folder/JxkVRJ4Y#3fgrcnIhSm5qeDt0qMFuaQ
 **Lastest Version V1.0.0-Beta**
 
 **News**<br />
-https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/News
+https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/News.md
 
 **versioning lay out**
 

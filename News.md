@@ -6,3 +6,5 @@ for now will stick with just torrent
 
 all files will be auto converted into mkv's in h.265 Codecs this will save space as well as download time.
 
+for now the mage link will stay but will ultimately go away.
+please save the torrent here to download the latest pack

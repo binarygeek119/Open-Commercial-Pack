@@ -1,6 +1,6 @@
 
 # dizquetv-Commercials-Pack<br />
-**This is a Commercials Pack for pseudotv or dizquetv**<br />
+**This is a Commercials Pack for dizquetv or pseudotv**<br />
 
 **Get dizquetv here**<br />
 https://github.com/vexorian/dizquetv<br />

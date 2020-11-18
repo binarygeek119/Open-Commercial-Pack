@@ -1,23 +1,24 @@
 
-# dizquetv-Commercials-Pack
-**This is a Commercials Pack for pseudotv or dizquetv**
+# dizquetv-Commercials-Pack<br />
+**This is a Commercials Pack for pseudotv or dizquetv**<br />
 
-**Get dizquetv here**
-https://github.com/vexorian/dizquetv
+**Get dizquetv here**<br />
+https://github.com/vexorian/dizquetv<br />
 
-**or**
+**or**<br />
 
-**Get pseudotv here**
+**Get pseudotv here**<br />
+**Outdated Please Use Torrent File**  <br />
 https://github.com/DEFENDORe/pseudotv
 
-**Link to Pack**
-**Outdated Please Use Torrent File**
-https://mega.nz/folder/JxkVRJ4Y#3fgrcnIhSm5qeDt0qMFuaQ
+**Link to Pack**<br />
+**Outdated Please Use Torrent File**  <br />
+https://mega.nz/folder/JxkVRJ4Y#3fgrcnIhSm5qeDt0qMFuaQ <br />
 
-**New Pack Link**
-to be made later. sorry
+**New Pack Link**<br />
+to be made later. sorry<br />
 
-**Lastest Version V1.0.0-Beta**
+**Lastest Version V1.0.0-Beta**<br />
 
 **News**<br />
 https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/News.md

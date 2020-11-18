@@ -18,7 +18,8 @@ https://mega.nz/folder/JxkVRJ4Y#3fgrcnIhSm5qeDt0qMFuaQ <br />
 **New Pack Link**<br />
 to be made later. sorry<br />
 
-**Lastest Version V1.0.0-Beta**<br />
+**Lastest Version **<br />
+**V1.0.0-Beta**<br />
 
 **News**<br />
 https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/News.md

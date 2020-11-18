@@ -11,7 +11,11 @@ https://github.com/vexorian/dizquetv
 https://github.com/DEFENDORe/pseudotv
 
 **Link to Pack**
+**Outdated Please Use Torrent File**
 https://mega.nz/folder/JxkVRJ4Y#3fgrcnIhSm5qeDt0qMFuaQ
+
+**New Pack Link**
+to be made later. sorry
 
 **Lastest Version V1.0.0-Beta**
 

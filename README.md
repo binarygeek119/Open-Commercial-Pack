@@ -38,4 +38,5 @@ https://github.com/binarygeek119/PseudotTV-Commercials-Pack/blob/master/Changelo
 
 
 **View of the files**
-https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/unknown.png?raw=true
+<img src="files.png" width="500">
+

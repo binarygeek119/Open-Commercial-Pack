@@ -37,6 +37,6 @@ https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/News.md
 https://github.com/binarygeek119/PseudotTV-Commercials-Pack/blob/master/Changelog
 
 
-**View of the files**
+**View of the files**<br />
 <img src="files.png" width="500">
 

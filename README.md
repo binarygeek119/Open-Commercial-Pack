@@ -7,7 +7,8 @@ https://github.com/vexorian/dizquetv<br />
 
 
 **Packs Links**<br />
-https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/Commercials.torrent?raw=true<br />
+**90's pack** <br />
+https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/Torrents/90's/90s.torrent<br />
 
 **Lastest Version **<br />
 **V2.0.0-Beta**<br />

@@ -1,10 +1,24 @@
 
-# dizquetv-Commercial-Pack<br />
-**This is a Commercial Pack for dizquetv or pseudotv**<br />
+# Open-Commercial-Pack<br />
+**This is a Commercial Pack for many projects**<br />
 
-**Get dizquetv here**<br />
-https://github.com/vexorian/dizquetv<br />
+for use with the following projects
 
+dizquetv here https://github.com/vexorian/dizquetv
+
+Info fork of pseudotv and development active plex backend plex jellyfin emby kodi frontend suports filler and logos
+
+pseudotv here https://github.com/DEFENDORe/pseudotv
+
+Info development stalled plex backend plex jellyfin emby kodi frontend suports filler and logos
+
+VirtualTV Emby Plugin https://emby.media/community/index.php?/topic/80828-virtualtv-plugin/
+
+Info development active Emby backend plex jellyfin emby kodi frontend suports filler and logos
+
+PseudoTV Kodi Addon https://forum.kodi.tv/showthread.php?tid=90738
+
+Info development active kodi backend kodi frontend unknowen suports filler and logos
 
 **Packs Links**<br />
 **90's pack** <br />
@@ -29,10 +43,6 @@ https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/News.md
 https://github.com/binarygeek119/PseudotTV-Commercials-Pack/blob/master/Changelog
 
 
-**C-Codes**
-https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/C-Codes.md
-
-**View of the files**<br />
-**outdated** <br />
-<img src="files.png" width="500">
+**copyright**
+copyright holders if a Commercial has violation  the copyrighted material. you may request it to be remove, inwhich i will be right away. please note that this is for a growing and free and fun community with no profit involved. we are just trying to recreate the magic you have made in programming. we mean no harm. also please note that this are old Commercials we are viewing which makes us think of the old things we all growup with and shows off your old products, which have made a impacked if its is included in the pack. but if you wish use to remove it i will do so. 
 

@@ -1,5 +1,10 @@
 **what's up** <br />
-Commercials Pack
+
+debanded the Commercial Pack for use with other projects. also movie trailers are coming soon and still working on 80's pack
+
+
+<br />
+Commercial Pack
 V2.0.0-Beta the old pack will be going offline from my end if you guys like to keep seed go right ahead.
 whats new in this pack better file names and folder structure. as well of C-Codes or Commercial-codes. this is short filenames in the name to help sort out even more.
 

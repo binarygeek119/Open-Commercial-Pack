@@ -56,8 +56,21 @@ kodi frontend
 
 # Packs Links
 <br>
-**90's pack** <br>
+**90's Pack** <br>
 https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/Torrents/90's/90s.torrent<br>
+
+<br>
+**80's Pack** <br>
+https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/Torrents/80's/80s.torrent<br>
+
+<br>
+**Banned Commercials Pack** <br>
+https://github.com/binarygeek119/Open-Commercial-Pack/blob/master/Torrents/Banned%20Commercials/Banned%20Commercials.torrent<br>
+
+<br>
+**Movie Trailers Pack** <br>
+https://github.com/binarygeek119/Open-Commercial-Pack/blob/master/Torrents/Movie_trailers/movie_trailers.torrent<br>
+
 
 # Lastest Version 
 <br >

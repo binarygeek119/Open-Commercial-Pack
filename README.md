@@ -78,7 +78,7 @@ https://github.com/binarygeek119/Open-Commercial-Pack/blob/master/Torrents/Movie
 
 # Lastest Version 
 <br >
-**V2.0.0-Beta**<br>
+**V2.1.0-Beta**<br>
 
 # News
 <br>

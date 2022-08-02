@@ -12,6 +12,17 @@
 
 <br>
 
+# ersatztv
+<br>https://github.com/jasongdove/ErsatzTV
+
+# Info 
+development stalled<br>
+plex jellyfin emby backend <br>
+plex jellyfin emby kodi frontend<br>
+supports filler and logos
+
+<br>
+
 # dizquetv
 
 <br>https://github.com/vexorian/dizquetv<br>

@@ -66,11 +66,24 @@ kodi backend<br>
 kodi frontend 
 <br>unknown is it supports filler and logos<br>
 
+#sorted
+
 # Packs Links
+# Archive
 https://archive.org/details/open-commercial-pack_202208
 <br>
+
 # Torrent
 https://archive.org/download/open-commercial-pack_202208/open-commercial-pack_202208_archive.torrent
+<br>
+
+#Unsorted
+this pack has Commercials that arent in the fist sorted pack.
+# Archive
+https://archive.org/details/Open-Commercial-Pack-Unsorted
+<br>
+# Torrent
+https://archive.org/download/Open-Commercial-Pack-Unsorted/Open-Commercial-Pack-Unsorted_archive.torrent
 
 # Lastest Version 
 <br >

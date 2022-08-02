@@ -67,7 +67,10 @@ kodi frontend
 <br>unknown is it supports filler and logos<br>
 
 # Packs Links
-
+https://archive.org/details/open-commercial-pack_202208
+<br>
+# Torrent
+https://archive.org/download/open-commercial-pack_202208/open-commercial-pack_202208_archive.torrent
 
 # Lastest Version 
 <br >

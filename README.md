@@ -16,7 +16,7 @@
 <br>https://github.com/jasongdove/ErsatzTV
 
 # Info 
-development stalled<br>
+development active<br>
 plex jellyfin emby backend <br>
 plex jellyfin emby kodi frontend<br>
 supports filler and logos
@@ -28,7 +28,7 @@ supports filler and logos
 <br>https://github.com/vexorian/dizquetv<br>
 
 # Info 
-fork of pseudotv and development active <br>
+fork of pseudotv and development stalled <br>
 plex backend<br>
 plex jellyfin emby kodi frontend <br>
 supports filler and logos<br>

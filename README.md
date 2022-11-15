@@ -104,21 +104,21 @@ https://archive.org/details/Open-Commercial-Pack-Unsorted
 # Torrent
 https://archive.org/download/Open-Commercial-Pack-Unsorted/Open-Commercial-Pack-Unsorted_archive.torrent
 
-# Lastest Version 
-<br >
-**V2.1.0-Beta**<br>
 
-# News
-<br>
-https://github.com/binarygeek119/dizquetv-Commercials-Pack/blob/master/News.md
+Also i have this repository to check out Binarygeek119's Other Repositorys
 
-# versioning lay out
 
-**V** = Version<br>
-**First Number** = Release<br />
-**Second Number** = Additional Content<br>
-**Thrid Number** = Fixes <br>
-**Beta** = Not Official Release<br>
+Open-Commercial-Pack - https://github.com/binarygeek119/Open-Commercial-Pack
+This is a Commercial Pack for many projects such as ersatztv, dizquetv, pseudotv, VirtualTV Emby Plugin, and PseudoTV Kodi Addon
+
+open-channel-logos - https://github.com/binarygeek119/open-channel-logos
+Open free to use channel logos. Used for  ersatztv, dizquetv, pseudotv, VirtualTV Emby Plugin, and PseudoTV Kodi Addon
+
+closed-channel-logos - https://github.com/binarygeek119/closed-channel-logos
+Real channel logos channel logos. Used for  ersatztv, dizquetv, pseudotv, VirtualTV Emby Plugin, and PseudoTV Kodi Addon
+
+open-custom-posters - https://github.com/binarygeek119/open-custom-posters
+Custom posters for the app like Posterr or Digital Movie Poster (DMP)
 
 # Changelog
 

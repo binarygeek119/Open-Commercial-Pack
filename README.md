@@ -1,4 +1,23 @@
-# NOTE if anyone want to fork this and take over feel free too.
+# NOTE 
+if anyone want to help me put out a new Commercial Pack please join my discord.
+i want to make this pack for everyone and have everyone be happy with it.
+what im looking for is help with going thought each file
+looking at the fellowing.
+1. quality
+2. codec
+3. container
+4. naming.
+5. language
+6. watermarks
+
+what im wanting is make a community standard for my Open-Commercial-Pack
+i want to try to make others happy.
+head on over to my discord to discuss what is need for pack V3.
+im still working on the bulk of the files. trying to use tools available to make it easier.
+but what i need is other eyes to pick out bad rips.
+Open Repository's discord
+
+https://discord.gg/CZTGFD9K
 
 # Open-Commercial-Pack<br>
 

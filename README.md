@@ -15,7 +15,8 @@ i want to try to make others happy.
 head on over to my discord to discuss what is need for pack V3.
 im still working on the bulk of the files. trying to use tools available to make it easier.
 but what i need is other eyes to pick out bad rips.
-Open Repository's discord
+
+# Open Repository's discord
 
 https://discord.gg/CZTGFD9K
 

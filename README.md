@@ -18,7 +18,7 @@ but what i need is other eyes to pick out bad rips.
 
 # Open Repository's discord
 
-https://discord.gg/CZTGFD9K
+[https://discord.gg/CZTGFD9K](https://discord.gg/AEhVjqX4Af)
 
 # Open-Commercial-Pack<br>
 
